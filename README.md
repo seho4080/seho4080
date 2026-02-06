@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Seho
 
-🚀 Aspiring Data Engineer / Infrastructure Engineer  
+🚀 Aspiring Data Engineer / Infrastructure Engineer  / QA Engineer
 📈 I enjoy building scalable data pipelines and backend systems for real-time processing.  
 🧩 Currently diving into Kubernetes to expand my cloud-native / infra skillset.  
 
